@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/calc-blog/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/calc-blog/static/js/main.5b868c07.chunk.js",
+    "main.js.map": "/calc-blog/static/js/main.5b868c07.chunk.js.map",
+    "runtime-main.js": "/calc-blog/static/js/runtime-main.4446d613.js",
+    "runtime-main.js.map": "/calc-blog/static/js/runtime-main.4446d613.js.map",
+    "static/js/2.8c157ad4.chunk.js": "/calc-blog/static/js/2.8c157ad4.chunk.js",
+    "static/js/2.8c157ad4.chunk.js.map": "/calc-blog/static/js/2.8c157ad4.chunk.js.map",
+    "static/js/3.f324bf4e.chunk.js": "/calc-blog/static/js/3.f324bf4e.chunk.js",
+    "static/js/3.f324bf4e.chunk.js.map": "/calc-blog/static/js/3.f324bf4e.chunk.js.map",
+    "index.html": "/calc-blog/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/calc-blog/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8c157ad4.chunk.js.LICENSE.txt": "/calc-blog/static/js/2.8c157ad4.chunk.js.LICENSE.txt",
+    "static/media/blog-post.1.09e7833f.md": "/calc-blog/static/media/blog-post.1.09e7833f.md",
+    "static/media/blog-post.2.75655ebf.md": "/calc-blog/static/media/blog-post.2.75655ebf.md",
+    "static/media/blog-post.3.bdef2d7b.md": "/calc-blog/static/media/blog-post.3.bdef2d7b.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4446d613.js",
+    "static/js/2.8c157ad4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5b868c07.chunk.js"
+  ]
+}
